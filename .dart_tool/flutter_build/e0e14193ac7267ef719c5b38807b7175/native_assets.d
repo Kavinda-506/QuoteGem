@@ -1,0 +1,1 @@
+ C:\\Flutter\\Quote_Generator\\quote_generate\\.dart_tool\\flutter_build\\e0e14193ac7267ef719c5b38807b7175\\native_assets.yaml: 

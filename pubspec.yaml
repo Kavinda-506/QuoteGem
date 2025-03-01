@@ -1,0 +1,44 @@
+name: quote_gen
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true  
+  assets:
+    - assets/Brighter Days Wallpapers.jpeg
+    - assets/lettering-quote-with-image.png
+    - assets/download.webp
+    - assets/Jules_Renard_circa_1900.jpg
+    - assets/Maslow-bw.webp
+    - assets/einstein.jpg
+    - assets/Nelson_Mandela_1994.jpg
+    - assets/unsplash_wzkv5p5CIRk.png
+    - assets/angelou.jpg
+    - assets/Mark-Twain-1907.webp
+    - assets/download.webp
+    - assets/Jobs_hero20110329.webp
+    - assets/Walt Disney.jpg
+    - assets/confucius-chinese-school.jpg
+    - assets/oscar-wilde-20230212.jpg
+    - assets/CT_74-53_(cropped).jpg
+    - assets/Aristotle_Altemps_Inv8575.jpg
+    - assets/Henry Ford.jpg
+    - assets/Thomas_Edison2.jpg
+    - assets/48e552ba9d4852db730ed4922d19c328.jpg
+    - assets/a1dcdb6a51ad3a03799c60f648837946.jpg
+    - assets/3c1a6e5c04b046a5f05fea70cdf1a0f5.jpg
+
